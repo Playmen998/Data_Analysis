@@ -63,5 +63,14 @@
 <td> <b>pandas</b>, <b>numpy</b>,
 <b>seaborn</b>,<b>matplotlib<b>
 <tr>
+<tr>
+<td><b>7</b></td>
+<td><a href="https://github.com/Playmen998/Data_Analysis/tree/master/Psychotype" target="_blank"><b>Предсказание психотипов</b></a></td>
+<td> В данном репозитории представлены две прогностические модели для определения психотипа по методике MBTI. Задачей проекта явялется определение оптимальной модели для использования ее в проекте телеграмм бота 
+<a href="https://github.com/Playmen998/Psychotype_Bot]Psychotype_Bot">Psychotype_Bot</a>
+</td>
+<td> <b>Pandas</b>, <b>Numpy</b>,
+<b>Seaborn</b>,<b>Matplotlib<b>, <b>Sklearn</b>,<b>Catboost<b>, <b>Hyperopt</b>,<b>Hvplot<b>
+<tr>
 </table>
 <br/><br/>
