@@ -45,3 +45,6 @@
 однако конверсия в тариф *smart plus* должна быть сопоставима с *smart plus*
 
 # Используемые технологии
+*pandas*, *matplotlib*, *numpy*, *requests*, *API Yandex.Геокодер*, *folium*, *pymorphy2*, *scipy*, *pylab*, *statsmodels*
+
+
