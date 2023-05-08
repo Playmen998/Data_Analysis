@@ -74,5 +74,15 @@
 <td> <b>pandas</b>, <b>numpy</b>,
 <b>seaborn</b>, <b>matplotlib<b>, <b>sklearn</b>, <b>catboost<b>, <b>hyperopt</b>, <b>hvplot<b>
 <tr>
+
+<tr>
+<td><b>8</b></td>
+<td><a href="https://github.com/Playmen998/Analysis_Retail_Store/tree/master" target="_blank"><b>Analysis_Retail_Store</b></a></td>
+<td>Проект представляет собой анализ продуктовый метрик Retention и LTV, для них был построен когортный анализ. Также данные были исследованы на предмет выбросов с помощью гистограмм и графиков box-plot. В процессе работы был построен RFM анализ и проанализирована его предсказательная мощность с помощью метрик uplift, gini и heatmap. В завершение проекта была создана предсказательная модель LTV
+</td>
+<td> <b>pandas</b>, <b>numpy</b>,
+<b>seaborn</b>, <b>matplotlib<b>, <b>sklearn</b>, <b>plotly<b>, <b>scikitplot</b>, <b>xgboost<b>
+<tr>
+
 </table>
 <br/><br/>
